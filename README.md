@@ -1,1 +1,1 @@
-Curso Introducción a la Programación.
+Curso Front-End OpenBootcamp
