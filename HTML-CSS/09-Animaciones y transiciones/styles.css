@@ -1,0 +1,14 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+
+.btn-modern:hover {
+    transform: translateY(-5px);
+    box-shadow: 2px 2px #52414C;
+    background-color: #D5D8D4;
+    color: #52414C;
+    transition: 0.4s;
+}
