@@ -1,0 +1,36 @@
+.contenedor {
+    display: flex;
+    height: 100vh;
+}
+
+.barra p {
+    background-color: #F3F9FF;
+    padding: 0.5rem;
+    margin: 0.5rem;
+}
+
+.barra {
+    display: flex;
+    flex-direction: column;
+    background-color: #CBD3E5;
+}
+
+.seccion-principal {
+    display: flex;
+    flex-grow: 1;
+
+    background-color: #ECF3FF;
+    justify-content: center;
+    align-items: center;
+}
+
+@media (max-width: 640px) {
+    .contenedor {
+        flex-direction: column-reverse;
+    }
+    
+    .barra {
+        flex-direction: row;
+        justify-content: space-around;
+    }
+}
