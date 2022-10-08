@@ -1,0 +1,28 @@
+.row div {
+    padding: 0.25rem;
+    margin: 0.25rem;
+}
+
+.texto-1 {
+    background-color: #64113F;
+}
+
+.texto-2 {
+    background-color: #DE4D86;
+}
+
+.texto-3 {
+    background-color: #F29CA3;
+}
+
+.texto-4 {
+    background-color: #F7CACD;
+}
+
+.texto-5 {
+    background-color: #BED8E3;
+}
+
+.texto-6 {
+    background-color: #84E6F8;
+}
